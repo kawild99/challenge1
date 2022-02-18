@@ -12,7 +12,7 @@ The goal was to refactor the existing webpage to make it accessable and to impro
 https://kawild99.github.io/challenge1/
 
 ##Final Product Screenshot
-<img src="challenge1/assets/images/horiseon.png" alt="Horiseon Final Look"/>
+<img src=".challenge1/assets/images/horiseon.png" alt="Horiseon Final Look"/>
 # My cool website that I refatored
 
 ## Contribution
